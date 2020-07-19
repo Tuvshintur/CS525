@@ -1,0 +1,8 @@
+Explain the advantage and/or disadvantage of the design of part c and part d. 
+
+Pros:
+it makes you to add new components
+it can contain complex logics
+
+Cons:
+Once tree structure are prepared it will be harder to modify next time

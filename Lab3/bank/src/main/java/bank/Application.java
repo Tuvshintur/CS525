@@ -1,6 +1,7 @@
 package bank;
 
 import java.util.Collection;
+import java.util.Scanner;
 
 import bank.domain.Account;
 import bank.domain.AccountEntry;
